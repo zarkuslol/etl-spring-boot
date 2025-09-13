@@ -1,0 +1,11 @@
+id,customer_name,active,product,quantity,price
+1,Ana,true,Camiseta,3,49.90
+2,Bruno,false,Notebook,1,3500.00
+3,Carla,true,Mouse,2,79.50
+4,Diego,true,Teclado,1,199.90
+5,Elisa,false,Fone de Ouvido,2,299.00
+6,Felipe,true,Monitor,1,1250.00
+7,Gabriela,true,Cadeira Gamer,1,899.90
+8,Hugo,false,Impressora,1,600.00
+9,Isabela,true,Webcam,2,150.00
+10,João,true,SSD,1,450.00
